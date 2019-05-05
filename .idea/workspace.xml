@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aea0c416-2c6f-4721-969c-de06360a449b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="aea0c416-2c6f-4721-969c-de06360a449b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -273,7 +271,7 @@
       <option name="presentableId" value="Default" />
       <updated>1556727258077</updated>
       <workItem from="1556727262267" duration="4751000" />
-      <workItem from="1557015633821" duration="769000" />
+      <workItem from="1557015633821" duration="904000" />
     </task>
     <servers />
   </component>
@@ -304,7 +302,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5520000" />
+    <option name="totallyTimeSpent" value="5655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
